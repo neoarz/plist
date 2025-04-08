@@ -1,1 +1,789 @@
-{"apps":[{"appPermissions":{"entitlements":[],"privacy":{}},"beta":false,"bundleIdentifier":"com.NCX-Programming.RNGToolMobile","category":"utilities","developerName":"NCX Programming","downloadURL":"https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa","iconURL":"https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/icon.png","languages":["en"],"localizedDescription":"RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random letters, right from your phone!\n\n## Features:\n### Numbers\nGenerate a single random number using only a minimum and maximum number. The simplest way to generate numbers.\n\n### Dice\nGenerate up to 6 random numbers using 6-sided dice.\n\n### Cards\nGenerate up to 7 random numbers using cards. You can optionally display the point values of the cards drawn, with the Ace being toggleable between 1 and 11 points.\n\n### Marbles\nGenerate up to 5 random letters using marbles. Marble icons are shown with the letter on them.\n\nRNGTool is fully open source, and the source can be found [on GitHub](https://github.com/NCX-Programming/RNGTool).\n\nNote that a watchOS extension app for RNGTool exists, but is currently unsupported by AltStore/SideStore. Should it become supported, it will be added here, however you will need to install the IPA manually for now if you want it. RNGTool is also available for macOS in the GitHub repository.","name":"RNGTool","permissions":[],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/1","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/2","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/3","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/4"],"screenshots":{"ipad":[],"iphone":["https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/1","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/2","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/3","https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/4"]},"size":3896362,"subtitle":"The best way to generate random numbers on iOS","tintColor":"ff5814","version":"2.0.0","versionDate":"2024-03-09T17:21:39.209569+00:00","versionDescription":"## v2.0.0: State restoration!\n### What's new on iOS:\n- Interface settings are now separate from advanced settings and are shown in the main settings screen.\n    - These settings include \"Ask to confirm resets\" and \"Show tap hints\".\n- Number Mode now saves your result, max number and min number while the app is running.\n    - A toggle has been added to advanced settings to disable this.\n- Number settings now saves your default numbers as you type.\n- Default numbers now reset correctly.\n- The text on the marbles in Marble Mode now scales with the display size.","versions":[{"channel":"stable","date":"2024-03-09T17:21:39.209569+00:00","downloadURL":"https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa","localizedDescription":"## v2.0.0: State restoration!\n### What's new on iOS:\n- Interface settings are now separate from advanced settings and are shown in the main settings screen.\n    - These settings include \"Ask to confirm resets\" and \"Show tap hints\".\n- Number Mode now saves your result, max number and min number while the app is running.\n    - A toggle has been added to advanced settings to disable this.\n- Number settings now saves your default numbers as you type.\n- Default numbers now reset correctly.\n- The text on the marbles in Marble Mode now scales with the display size.","size":3896362,"version":"2.0.0"}]},{"appPermissions":{"entitlements":[],"privacy":{"NSLocalNetworkUsageDescription":"The virtual machine may access the local network. UTM also uses the local network to communicate with AltServer.","NSLocationAlwaysAndWhenInUseUsageDescription":"UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.","NSMicrophoneUsageDescription":"Permission is required for any virtual machine to record from the microphone."}},"beta":false,"bundleIdentifier":"com.utmapp.UTM","category":"other","developerName":"osy","downloadURL":"https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM.ipa","iconURL":"https://connect.sidestore.io/public/apps/com.utmapp.UTM/icon.png","languages":["en"],"localizedDescription":"UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\nMore information at [https://getutm.app/](https://getutm.app/)\n\nFeatures:\n\n\u2022 Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n\u2022 Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n\u2022 Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n\u2022 High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n\u2022 Free and Open Source\nUTM and its dependencies are all free and open source\n\u2022 Easy to Use\nConfigure and customize your VM in a native UI","name":"UTM Virtual Machines","permissions":[{"type":"location","usageDescription":"UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device."},{"type":"microphone","usageDescription":"Permission is required for any virtual machine to record from the microphone."},{"type":"network","usageDescription":"The virtual machine may access the local network. UTM also uses the local network to communicate with AltServer."}],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/0","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/1","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/3","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/4","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/5","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/6"],"screenshots":{"ipad":[],"iphone":["https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/0","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/1","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/3","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/4","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/5","https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/6"]},"size":122064838,"subtitle":"Virtual machines for iOS","tintColor":"1a2cc2","version":"4.5.4","versionDate":"2024-11-10T01:40:00.408717+00:00","versionDescription":"- Fixed an issue causing \"The file ... couldn't be opened\" immediately after creating a new VM (#6398)\n- The timestamp of the .utm package will always update to the last time it runs, this should make managing backups easier (#6474)\n- Fixed the error \"Failed to lock byte 100: Operation not supported\" when trying to attach an ISO which the OS has mounted or from a network drive that does not support locking (#6564)\n- Fixed an issue where release notes loading can be delayed by a lack of internet connection (it should just fail silently)\n- Localization: Added Arabic (thanks @muhammadbahaa2001)\n- Localization: Updated Chinese (Simplified + Hong Kong) (thanks @changanmoon)\n- Localization: Updated Japanese (thanks @MMP0)\n- Updated DEB to support rootless\n- Terminal lines no longer get hidden by the top curved edge or by the keyboard (#6482)\n- Fixed an issue where importing a drive shows up as a removable drive (#6485)\n- Fixed an issue where creating a new drive sometimes automatically closes the popup\n- External displays can now view serial output terminals (#6594)\n- Added new tips overlay for new users","versions":[{"channel":"stable","date":"2024-11-10T01:40:00.408717+00:00","downloadURL":"https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM.ipa","localizedDescription":"- Fixed an issue causing \"The file ... couldn't be opened\" immediately after creating a new VM (#6398)\n- The timestamp of the .utm package will always update to the last time it runs, this should make managing backups easier (#6474)\n- Fixed the error \"Failed to lock byte 100: Operation not supported\" when trying to attach an ISO which the OS has mounted or from a network drive that does not support locking (#6564)\n- Fixed an issue where release notes loading can be delayed by a lack of internet connection (it should just fail silently)\n- Localization: Added Arabic (thanks @muhammadbahaa2001)\n- Localization: Updated Chinese (Simplified + Hong Kong) (thanks @changanmoon)\n- Localization: Updated Japanese (thanks @MMP0)\n- Updated DEB to support rootless\n- Terminal lines no longer get hidden by the top curved edge or by the keyboard (#6482)\n- Fixed an issue where importing a drive shows up as a removable drive (#6485)\n- Fixed an issue where creating a new drive sometimes automatically closes the popup\n- External displays can now view serial output terminals (#6594)\n- Added new tips overlay for new users","size":122064838,"version":"4.5.4"},{"channel":"stable","date":"2023-10-08T04:28:35.080873+00:00","downloadURL":"https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.ipa","localizedDescription":"## Highlights\n* **Rewrite of QEMU support internals.** Much of the code to support QEMU has been refactored into a new project, [QEMUKit](https://github.com/utmapp/QEMUKit), which will make it easier to support QEMU changes as well as support for new platforms.\n* **TPM 2.0 and Secure Boot** This is required for Windows 11 updates to 22H2. To enable TPM on an existing virtual machine (only x86_64, i386, and ARM64 architectures are supported), open the VM settings, go to the QEMU page and select \"UEFI Boot\", \"TPM 2.0 Device\", and \"Reset UEFI Variables.\" Any new VM created through the wizard will have TPM 2.0 and Secure Boot enabled by default if Windows 10+ support is checked.\n* **Download Windows installer with a new utility.** We know that creating a Windows installer can be a hassle which is why we are releasing a new free tool called CrystalFetch which can be found on [GitHub](https://github.com/TuringSoftware/CrystalFetch) as well as free on the [Mac App Store](https://apps.apple.com/app/crystalfetch-iso-downloader/id6454431289). This companion to UTM will allow you to generate a Windows 11 ISO with a few clicks (no Terminal, Homebrew, or scripts required). Note that just like before, you still need a valid license from Microsoft to use Windows.\n\n## Notes\n* On i386 and x86_64 machines, HPET is now disabled by default. This improves performance (slightly) on some guests and also addresses boot issues with OpenIndiana. This change means that suspended VM state from previous versions are not compatible, so please shut down those VMs before updating. If you require HPET to be enabled for any reason, go into the VM's settings and under QEMU \u2192 QEMU Machine Properties, add the text `hpet=on`.\n* In v4.3.5, we rolled back backend updates to QEMU and EDK2 due to a critical issue that prevented VMs from booting. While the issue is investigated, the last stable version will be used and once the issue is resolved, a new update will be released.\n* If you suspended an Apple Virtualization VM in v4.4 and then downgrade to v4.3, you will not be able to resume the VM or start it at all. Please make sure you shut down any such VMs before downgrading or you may suffer data loss.\n\n## Changes (v4.3.5)\n* Rollback QEMU version to 7.2.0\n* Rollback EDK2 firmware to edk2-stable202102\n* Reduced amount of logging when Debug Log is not checked\n* (macOS) Wizard: Fixed boot ISO not saving for AVF (#5517)\n\n## Changes (v4.3.4)\n* Localization: Updated Japanese (thanks @MMP0)\n* Fixed WebDAV shared directory not setup on start (#5506)\n* (macOS) Improved debug logging by showing more verbose logging for SPICE. If \"Enable Debug Log\" is selected, more verbose logging will be activated.\n* (macOS) Fixed an issue where the VM freezes or shows \"port not connected\" when the computer is under memory pressure (#5489)\n* (macOS 11) Disabled options in the context menu which had broken UI leading to freezes or crashes (#5147)\n* (macOS 12) Wizard: Fixed a crash when selecting a file with VoiceOver (#5250)\n* (macOS 12+) Settings: new table view for QEMU custom arguments\n\n## Changes (v4.3.3)\n* Fixed a crash when selecting a VM (#5481)\n* Fixed a crash when starting a VM and an error occurred when creating display/serial devices (#5472)\n* Fixed boot issues when trying to load OpenIndiana by disabling HPET timers by default (#2394)\n* Fixed an issue where selected removable drive image and shared directory are not syncing correctly\n* QEMUKit: Fixed race condition when multiple RPC commands are sent (#5477)\n* EDK2: Fixed an issue preventing some versions of Windows 11 from booting (#5495)\n* utmctl: Add a more verbose error message when utmctl fails because it is launched from an SSH session or before logging in (#5499)\n* Wizard: Fixed selected boot ISO not saving (#5471)\n* Wizard: Link to CrystalFetch when Windows is selected\n* (macOS) AVF: Automatically un-capture system keys when VM terminates\n\n## Changes (v4.3.2)\n* The last update introduced two units per bus for IDE devices. However, some machines do not support this configuration, so now two units per bus will only be enabled for supported machines. Other machines will retain pre v4.3.1 behaviour.\n* Fixed some state tracking issues leading to various errors when a VM is quickly stopped and started again.\n* Changed the style of the icons on various VM operations in the home screen and context menu (iOS) (thanks @jnsdrtlf) (#5441, #4759)\n* Fixed an issue where serial device hardware was not saved\n* Fixed the error that shows up when trying to rename a VM (#5444)\n* Fixed a crash on startup due to mishandling of VM parsing (#5424)\n* Fixed debug logging not working due to backend changes in v4.3.1\n* Fixed a crash when QEMU tries to output non-printable characters\n* Add support for SWTPM for TPM 2.0 emulation\n* Add Secure Boot firmware for ARM64. Only the Secure Boot firmwares have TPM 2.0 support built in, so when TPM 2.0 and UEFI are enabled, UTM will automatically select the Secure Boot firmware. By default the UTM platform keys and Microsoft key exchange keys are enrolled. You can manually set up your own keys from the UEFI menu.\n* Updated the EDK2 UEFI firmware to the 202305 release\n* Debug logs will no longer be deleted when a VM configuration is saved and debug log is not disabled\n* Fixed an issue where the mouse cursor stopped working due to backend changes in v4.3.1\n* If the Documents directory does not exist in UTM's container, it will now be created automatically. This addresses an error that shows up if the Documents directory does not get created properly by macOS. (#5419)\n* Localization: Updated Japanese (thanks @MMP0)\n* (iOS) Fixed an issue where TSO setting was not saved\n* (macOS) Fixed an issue where every time a VM is started with a terminal window, the width of the window gets a bit larger\n* (macOS) Fixed an issue where starting a stopped VM does not change the display scale\n* (macOS) AVM: System keys will be captured automatically when entering full screen and released when exiting full screen (#3668)\n* (macOS) AVM: Fixed the request stop method in both the GUI and scripting interfaces (#5425)\n\n## Changes (v4.3.1)\n* Updated QEMU backend to v8.0.2\n* Refactored QEMU support to a new project: [QEMUKit](https://github.com/utmapp/QEMUKit)\n* Machines with IDE interface (i44FX/PIIX) will now support two units per bus. Previously, we mapped IDE devices to one unit per bus. This means on some machines, the limit was two devices maximum. Now, we map two units per IDE bus which should increase the limit to four devices. Existing VMs will _not_ get this change automatically in order to maintain compatibility. You can choose to opt-in to this new mapping by pressing the \u201cUpdate Interface\u201d button on each IDE drive in the VM settings. (#5358)\n* Localization: Updated Japanese (thanks @MMP0 and @studio1a9)\n* (macOS) Fixed crash when AVM window is closed (#5347)\n* (macOS) New option \u201cAutomatic\u201d for bridged network connection which will use the bridge the first active connection on the host. Both AVM and QEMU backends are supported. (#5410)\n* (macOS) Fixed trackpad setting not saving (#5369)\n\n## Changes (v4.3.0)\n* Updated QEMU backend to v8.0.0\n* Changed audio backend from CoreAudio back to SPICE (as it was before v4.2.x). Clarify that CoreAudio backend does not support microphone (#5253)\n* Add support for mouse buttons 4 and 5 (#5295)\n* Wizard: Properly display an error message when there is a failure writing to disk (#5271)\n* Fixed an issue where ISAPC emulation target cannot be started (#5280)\n* Fixed CoreAudio being instantiated even when audio is disabled\n* Fixed an issue where legacy VMs with AC97 sound card has an empty name in settings\n* Fixed an QEMU issue where the `ucomiss` instruction causes a crash in some applications (#5294)\n* Fixed an issue preventing VMs with commas in their name from starting (note only new VMs will be fixed) (#5332)\n* (macOS) AVM: Support canceling macOS installation\n* (macOS) utmctl: Added `delete` command (#5290)\n* (macOS) Fixed an issue creating a shortcut from drag & drop as well as double clicking from Finder (#5310, #5311)\n* (macOS) Added DHCP start/end settings for vmnet (#5301)\n* (macOS) Added automatically syncing of system clock when macOS wakes up from sleep (when QEMU guest agent is installed) (#5252)\n\n## Issues\nPlease check the full list on [Github](https://github.com/utmapp/UTM/issues) and help report any bug you find that is not listed.\n\n## Installation\n\n* [iOS](https://docs.getutm.app/installation/ios/)\n* [macOS](https://docs.getutm.app/installation/macos/)\n\n| File | Description | Installation | JIT | Hypervisor | USB |\n|------|------------|--------------|-----|-----------|-----|\n| UTM.deb | Jailbroken iOS version | Open in Cydia, dpkg, or Sileo | Yes | Yes(1) | Yes |\n| UTM.dmg | macOS version | Mounting and copying UTM.app to /Applications | Yes | Yes | Yes |\n| UTM.ipa | Non-jailbroken iOS version (sideloading) | AltStore, etc (see guide) | Yes(2) | No | No |\n| UTM.HV.ipa | Non-jailbroken iOS version (TrollStore) | TrollStore | Yes | Yes(1) | Yes |\n| UTM.SE.ipa | Non-jailbroken iOS version (sideloading) | AltStore, enterprise signing, etc | No | No | No |\n\n1. Hypervisor on iOS requires an M1 iPad.\n2. Enabling JIT may require a separate JIT enabler such as [Jitterbug][2] or Jitstreamer.\n\n[1]: https://getutm.app/install/\n[2]: https://github.com/osy/Jitterbug","size":123210353,"version":"4.3.5"}]},{"appPermissions":{"entitlements":[],"privacy":{}},"beta":false,"bundleIdentifier":"com.kdt.livecontainer","category":"other","developerName":"khanhduytran0","downloadURL":"https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.1/com.kdt.livecontainer_2.1.1.ipa","iconURL":"https://connect.sidestore.io/public/apps/com.kdt.livecontainer/icon.png","languages":["en"],"localizedDescription":"Run iOS app without actually installing it!\n- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!)\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.\n\n## Compatibility\nUnfortunately, not all apps work in LiveContainer, so we have a [compatibility list](https://github.com/khanhduytran0/LiveContainer/labels/compatibility) to tell if there is apps that have issues. If they aren't on this list, then it's likely going run. However, if it doesn't work, please make an [issue](https://github.com/khanhduytran0/LiveContainer/issues/new/choose) about it.\n\n## Usage\n- Open LiveContainer, tap the plus icon in the upper right hand corner and select IPA files to install.\n- Choose the app you want to open in the next launch.\n\n### With JIT\n- Tap the play icon, it will jump to SideStore and exit.\n- In SideStore, hold down LiveContainer and tap `Enable JIT`. If you have SideStore build supporting JIT URL scheme, it jumps back to LiveContainer with JIT enabled and the guest app is ready to use.\n\n### Without JIT\n> [!NOTE]\n> You need to setup JIT-less mode once. This can be done by pressing \"Setup JIT-less\" and following instructions.\n\n- Tap the play icon, it will attempt to restart LiveContainer with guest app loaded.\n\n### Installing external tweaks\nTo install tweaks, you can use the built-in tweak manager in LiveContainer, which will automatically sign tweaks as you import. Otherwise, you can manually add them and then use the tweak manager to sign them.\n\n## How does it work?\nSee [README.md](https://github.com/khanhduytran0/LiveContainer#how-does-it-work)\n\n## Limitations\n- Entitlements from the guest app are not applied to the host app. This isn't a big deal since sideloaded apps requires only basic entitlements.\n- App Permissions are globally applied.\n- Guest app containers are not sandboxed. This means one guest app can access other guest apps' data.\n- Only one guest app can run at a time. This is much more like 3 apps limit where you have to disable an app to run another (switching between app in LiveContainer is instant).\n- Remote push notification might not work.\n- Querying URL schemes might not work(?)","name":"LiveContainer","permissions":[],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/0","https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/1","https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/2"],"screenshots":{"ipad":[],"iphone":["https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/0","https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/1","https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/2"]},"size":195840,"subtitle":"Contanerize your apps without app limits!","tintColor":"0069e2","version":"2.1.1","versionDate":"2024-08-08T05:31:29.800995+00:00","versionDescription":"- Fix `code signature invalid` issue","versions":[{"channel":"stable","date":"2024-08-08T05:31:29.800995+00:00","downloadURL":"https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.1/com.kdt.livecontainer_2.1.1.ipa","localizedDescription":"- Fix `code signature invalid` issue","size":195840,"version":"2.1.1"},{"channel":"stable","date":"2023-08-06T22:36:54.988306+00:00","downloadURL":"https://connect.sidestore.io/public/apps/com.kdt.livecontainer/app.ipa","localizedDescription":"inital release","size":80633,"version":"1.0"}]},{"appPermissions":{"entitlements":[],"privacy":{"NSLocalNetworkUsageDescription":"To use the vpn for main functions via WireGuard.","NSPhotoLibraryUsageDescription":"To add custom icons for apps."}},"beta":false,"bundleIdentifier":"com.SideStore.SideStore","category":"utilities","developerName":"SideStore Team","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa","iconURL":"https://connect.sidestore.io/public/apps/com.SideStore.SideStore/icon.png","languages":["en"],"localizedDescription":"SideStore is the home of untethered sideloading on iOS and iPadOS.\n\n[SideStore](https://sidestore.io) is an iOS application that allows you to sideload apps onto your iOS device with just your Apple ID. SideStore resigns apps with your personal development certificate, and then uses a specially designed VPN in order to trick iOS into installing them. SideStore will periodically \"refresh\" your apps in the background, to keep their normal 7-day development period from expiring.\n\nSideStore's goal is to provide an untethered sideloading experience. It's a community driven fork of AltStore, and has already implemented some of the community's most-requested features.","name":"SideStore","permissions":[{"type":"background-audio","usageDescription":"SideStore uses audio for longer than 30 seconds so it can refresh apps in the background."},{"type":"background-fetch","usageDescription":"This permission is so SideStore can refresh apps without the app being open."},{"type":"photos","usageDescription":"To add custom icons for apps."},{"type":"network","usageDescription":"To use the vpn for main functions via WireGuard."}],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/0","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/1","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/3","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/4","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/5"],"screenshots":{"ipad":[],"iphone":["https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/0","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/1","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/3","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/4","https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/5"]},"size":9351984,"subtitle":null,"tintColor":"982abc","version":"0.5.8","versionDate":"2024-08-16T08:09:10.927234+00:00","versionDescription":"## What's Changed:\n* UI Improvements for the Anisette Servers View. by @0-Blu in #672\n* Added more feedback options. by @0-Blu in #673\n* Fix SideJITServer Support for iOS 17+ by @stossy11 in #674\n* Makes revoking optional by @junepark678 in #675\n* Better pairing file info by @bogotesr in #676\n* Selective app extension removal by @junepark678 in #677\n* legal: developer's certificate of origin 1.1 by @polymo1 in #686\n## New Contributors:\n* @0-Blu made their first contribution in #672","versions":[{"channel":"stable","date":"2024-08-16T08:09:10.927234+00:00","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa","localizedDescription":"## What's Changed:\n* UI Improvements for the Anisette Servers View. by @0-Blu in #672\n* Added more feedback options. by @0-Blu in #673\n* Fix SideJITServer Support for iOS 17+ by @stossy11 in #674\n* Makes revoking optional by @junepark678 in #675\n* Better pairing file info by @bogotesr in #676\n* Selective app extension removal by @junepark678 in #677\n* legal: developer's certificate of origin 1.1 by @polymo1 in #686\n## New Contributors:\n* @0-Blu made their first contribution in #672","size":9351984,"version":"0.5.8"},{"channel":"stable","date":"2024-08-16T01:53:18.852595+00:00","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.7/SideStore.ipa","localizedDescription":"Happy August! We have been very busy with doing quality of life changes and fixing bugs everyone\u2019s been having.\n\nWhat's Changed:\n- Added Stossy11 Anisette Server by stossy11\n- Added SideJITServer Support for Enabling JIT on iOS 17+ by @stossy11\n- Change AltStore Expiring Soon to SideStore Expiring Soon by therealFoxster\n- Add Dynamic anisette servers\n- Update to altstore 1.6.3 by @junepark678 @nythepegasus\n- Include Enable JIT errors in Error Log\n- Fix minimuxer status checking\n- Update no wifi message to include VPN\n- Opens Error Log when tapping ToastView\n- Fixes Error Log context menu covering cell content\n- Fixes Error Log context menu appearing while scrolling\n- Fixes incorrect Search FAQ URL\n- Fix Error Log showing UIAlertController on iOS 14+\n- Fix Error Log not showing UIAlertController on iOS <=13\n- Fix wrong color in AuthenticationViewController\n\n\nThanks to all of the community\u2019s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our [Discord](https://discord.gg/sidestore-949183273383395328)!","size":9341239,"version":"0.5.7"},{"channel":"stable","date":"2024-03-16T01:37:02.092240+00:00","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.6/SideStore.ipa","localizedDescription":"Everything in 0.5.5 along with\n* Add description on what disable idle timeout toggle + change add to Siri text for accuracy by @Spidy123222\n* Remove patreon exclusivity message for sources by @Spidy123222\n* Add ani.wesbryie.com to Anisette list by @WesleyBryie\n* Actually, attempt to (hackily) fix embedded pairing file issues @nythepegasus","size":9203929,"version":"0.5.6"},{"channel":"stable","date":"2024-01-09T02:30:29.009556+00:00","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa","localizedDescription":"Happy November!\nSince we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone\u2019s been having.\n\nWhat's Changed:\n- Clear cache button to help with the large size issues.\n- Fix: Fix AppID Crash\n- Version in settings showing as develop\n- Added Timeout Feature so when you install an app. Your device will not time out and mess up the install.\n- Remove the heavy reliance on Info.plist for UDID.\n- Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes.\n- Fix: fix AltWidget AppGroup Issue.\n- Fix: Use forked libplist","size":9202680,"version":"0.5.4"},{"channel":"stable","date":"2023-07-29T18:13:12.553817+00:00","downloadURL":"https://github.com/SideStore/SideStore/releases/download/0.5.0/SideStore.ipa","localizedDescription":"# Changes\n* [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy","size":9157428,"version":"0.5.0"}]},{"appPermissions":{"entitlements":[],"privacy":{}},"beta":false,"bundleIdentifier":"me.kingbri.ferrite","category":"other","developerName":"RoyalLab","downloadURL":"https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.1/Ferrite-iOS_v0.7.1.ipa","iconURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/icon.png","languages":["en"],"localizedDescription":"Ferrite is a magnet search engine and debrid management app for iOS.\n\nCompared to other platforms, iOS doesn't have any good options for using debrid services with media. Ferrite aims to change that by giving users a simple UI and an extensible framework to search the websites you want without all the clutter.\n\nBut, what is debrid? Well, it's a bunch of servers in the cloud that cache media from P2P sharing services. Therefore, a user does not have to worry about waiting for a P2P download to finish or waste storage space on one large file.\n\nFerrite also has other features for convenience including:\n- Local library with history and bookmarks\n- Cloud management\n- Kodi integration\n- Ad-free\n- Flexible parser written in native Swift\n- Intuitive filters while searching\n\nThese are the currently supported debrid services:\n- RealDebrid\n- AllDebrid\n- Premiumize\n- TorBox\n- OffCloud\n\nThe app is free and 100% open sourced: https://github.com/Ferrite-iOS/ferrite\n\nMore information is in the app website: https://kingbri.dev/ferrite\n\nHappy watching!","name":"Ferrite","permissions":[],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/1","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/3","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/4","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/5","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/6","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/7","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/8","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/9","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/10","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/11","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/12","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/13","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/14","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/15","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/16","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/17","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/18","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/19","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/20","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/21","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/22","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/23","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/24","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/25","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/26","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/27","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/28","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/29"],"screenshots":{"ipad":[{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/1","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/4","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/6","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/9","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/14","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/17","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/19","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/23","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/26","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/28","width":2360}],"iphone":["https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/3","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/5","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/7","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/8","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/10","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/11","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/12","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/13","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/15","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/16","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/18","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/20","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/21","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/22","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/24","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/25","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/27","https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/29"]},"size":1671340,"subtitle":null,"tintColor":"000000","version":"0.7.1","versionDate":"2024-06-14T17:05:47.342957+00:00","versionDescription":"This is the last version for iOS 15.0. Newer builds will require iOS 16.0 and higher to run.\n\nChangelog:\nFeatures:\n- Overhauled the internal logic for Debrid services\n- Added support for sources that include \"library-like\" listings via the {queryFirstLetter} param\n- Add TorBox and OffCloud support\n- Fixed seeder list with htmlParser\n- Add the ability to set request headers and body in a Plugin\n- Cleanup and fix bugs + UI issues","versions":[{"channel":"stable","date":"2024-06-14T17:05:47.342957+00:00","downloadURL":"https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.1/Ferrite-iOS_v0.7.1.ipa","localizedDescription":"This is the last version for iOS 15.0. Newer builds will require iOS 16.0 and higher to run.\n\nChangelog:\nFeatures:\n- Overhauled the internal logic for Debrid services\n- Added support for sources that include \"library-like\" listings via the {queryFirstLetter} param\n- Add TorBox and OffCloud support\n- Fixed seeder list with htmlParser\n- Add the ability to set request headers and body in a Plugin\n- Cleanup and fix bugs + UI issues","size":1671340,"version":"0.7.1"}]},{"appPermissions":{"entitlements":[],"privacy":{"NSLocalNetworkUsageDescription":""}},"beta":false,"bundleIdentifier":"com.stossy11.SideJIT","category":"developer","developerName":"Stossy11 | nythepegasus","downloadURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa","iconURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png","languages":["en"],"localizedDescription":"Its an app to enable JIT on iOS 17 with macOS or Windows without needing to interact with the computer at all. using nythepegasus SideJITServer you can find [it here](https://github.com/nythepegasus/SideJITServer)","name":"SideJIT","permissions":[{"type":"network","usageDescription":""}],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/1","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/3","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/4","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/5","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/6","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/7"],"screenshots":{"ipad":[{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/1","width":2360},{"height":1640,"imageURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/3","width":2360}],"iphone":["https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/2","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/4","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/5","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/6","https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/7"]},"size":634794,"subtitle":"Wireless JIT on iOS 17 (Windows or Mac) with SideJITServer","tintColor":"000000","version":"0.0.4","versionDate":"2024-04-16T03:03:34.811286+00:00","versionDescription":"Updated images on SideStore Connect this update will not come to the Github and will be skipped on github too","versions":[{"channel":"stable","date":"2024-04-16T03:03:34.811286+00:00","downloadURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa","localizedDescription":"Updated images on SideStore Connect this update will not come to the Github and will be skipped on github too","size":634794,"version":"0.0.4"},{"channel":"stable","date":"2024-04-15T04:31:28.706830+00:00","downloadURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa","localizedDescription":"1. New icon \n2. New Accent Colours\n3. Fixed Notifications\n4. Added Version in settings (doesnt work rn will get fixed next update lol\n5. Added https:// autocorrect \n6. a bit more that I forgot\n7. Fixed app not showing error when it cannot connect to the server","size":634794,"version":"0.0.3"},{"channel":"stable","date":"2024-04-15T00:46:28.430668+00:00","downloadURL":"https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa","localizedDescription":"1st Release","size":128529,"version":"0.0.1"}]},{"appPermissions":{"entitlements":[],"privacy":{"NSLocalNetworkUsageDescription":"Needed for local coop"}},"beta":false,"bundleIdentifier":"io.anuke.mindustry.be","category":"games","developerName":"Unofficial Mindustry repository","downloadURL":"https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa","iconURL":"https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/icon.png","languages":["en","de","fr"],"localizedDescription":"Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce materials to use for building, and construct units. Command units to capture enemy bases, and expand your production. Defend your core from waves of enemies.\n\nGameplay Features:\n\n- Use production blocks to create a wide variety of advanced materials\n\n- Defend your structures from waves of enemies\n\n- Play with your friends in cross-platform multiplayer co-op games, or challenge them in team-based PvP matches\n\n- Distribute liquids and fight constant challenges, like outbreaks of fire or enemy flier raids\n\n- Get the most out of your production by supplying optional coolant and lubricant\n\n- Produce a wide variety of units for automatic management of your base or assault on enemy bases\n\n- Set up assembly lines to construct armies of mechanized units\n\n- Use your units to square up against fully functional enemy bases\n\n\nCampaign:\n\n- Conquer the planets Serpulo and Erekir as you advance through 35 hand-made maps and 250+ procedurally generated sectors\n\n- Capture territory and set up factories to produce resources while you play other sectors\n\n- Defend your sectors from periodic invasions\n\n- Coordinate resource distribution between sectors via launch pads\n\n- Research new blocks to fuel progress\n\n- Invite your friends to complete missions together\n\n- 250+ technology blocks to master\n\n- 50+ different types of drones, mechs and ships\n\n\nCustom Games & Cross-Platform Multiplayer:\n\n- 16+ built in maps for custom games, in addition to two entire campaigns\n\n- Play co-op, PvP or sandbox\n\n- Join a public dedicated server, or invite friends to your own private session\n\n- Customizable game rules: Change block costs, enemy stats, starting items, wave timing and more\n\n- Full functional map editor with scripting support","name":"Mindustry","permissions":[{"type":"network","usageDescription":"Needed for local coop"}],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/1"],"screenshots":{"ipad":[],"iphone":["https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/1"]},"size":118182344,"subtitle":"","tintColor":"000000","version":"20021","versionDate":"2025-01-07T18:31:23.760006+00:00","versionDescription":"- Fixed a variety of issues with unit & block cost multiplier rules\n\n- Fixed many various crashes\n\n- Fixed pathfinding not being able to path through solid enemy blocks\n\n- Fixed naval units sometimes attempting to pathfind through land\n\n- Fixed water tiles with space background resulting in a black background\n\n- Fixed internal legacy blocks being logic constants\n\n- Fixed power node double-click leading to interaction rate limit triggering\n\n- Fixed units sometimes being unkillable\n\n- Fixed units with long paths sometimes recalculating forever\n\n- Fixed serious issue with player units getting bugged in certain maps with puddles\n\n- Fixed Neoplasia reactor sometimes not exploding\n\n- Fixed units randomly dying when hitting corners\n\n- Fixed piercing bullets permaturely hitting blocks \"under\" bullets\n\n- Fixed missiles dealing double damage to units\n\n- Fixed FPS not limiting accurately\n\n- Added setting to disable all lighting\n\n- Added logic unit autoPathfind command (default wave pathfinding)\n\n- Made logic unbind command set `@unit` to null\n\n- Made \"any\" environment accessible outside of sandbox\n\n- Made payload loaders no longer accept inputs from payload unloaders\n\n- Added logic sensors for shields, content ID (inverse of lookup command)\n\n- Added logic particle effect instruction\n\n- Added logic sync instruction\n\n- Setting factory output points now updates \"last accessed\"\n\n- Disabled team switching menu in multiplayer outside of sandbox/PvP\n\n- Decreased canvas block silicon cost slightly\n\n- Scathe ammo usage decreased to 15\n\n- Buffed Precept unit","versions":[{"channel":"stable","date":"2025-01-07T18:31:23.760006+00:00","downloadURL":"https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa","localizedDescription":"- Fixed a variety of issues with unit & block cost multiplier rules\n\n- Fixed many various crashes\n\n- Fixed pathfinding not being able to path through solid enemy blocks\n\n- Fixed naval units sometimes attempting to pathfind through land\n\n- Fixed water tiles with space background resulting in a black background\n\n- Fixed internal legacy blocks being logic constants\n\n- Fixed power node double-click leading to interaction rate limit triggering\n\n- Fixed units sometimes being unkillable\n\n- Fixed units with long paths sometimes recalculating forever\n\n- Fixed serious issue with player units getting bugged in certain maps with puddles\n\n- Fixed Neoplasia reactor sometimes not exploding\n\n- Fixed units randomly dying when hitting corners\n\n- Fixed piercing bullets permaturely hitting blocks \"under\" bullets\n\n- Fixed missiles dealing double damage to units\n\n- Fixed FPS not limiting accurately\n\n- Added setting to disable all lighting\n\n- Added logic unit autoPathfind command (default wave pathfinding)\n\n- Made logic unbind command set `@unit` to null\n\n- Made \"any\" environment accessible outside of sandbox\n\n- Made payload loaders no longer accept inputs from payload unloaders\n\n- Added logic sensors for shields, content ID (inverse of lookup command)\n\n- Added logic particle effect instruction\n\n- Added logic sync instruction\n\n- Setting factory output points now updates \"last accessed\"\n\n- Disabled team switching menu in multiplayer outside of sandbox/PvP\n\n- Decreased canvas block silicon cost slightly\n\n- Scathe ammo usage decreased to 15\n\n- Buffed Precept unit","size":118182344,"version":"20021"}]},{"appPermissions":{"entitlements":[],"privacy":{"NSCameraUsageDescription":"Camera is required for AR Experiences","NSLocalNetworkUsageDescription":"GearGlimpse uses the network to communicate with your robot or simulator.","NSMotionUsageDescription":"Motion Data is required for AR experiences"}},"beta":false,"bundleIdentifier":"me.nabdev.gearglimpserev","category":"utilities","developerName":"nab138","downloadURL":"https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.4/me.nabdev.gearglimpserev_0.0.4.ipa","iconURL":"https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/icon.png","languages":["en"],"localizedDescription":"AR Tools for FRC! Connect to the simulator or robot and view it on the field in real-time. View the field in life-size or miniature!\n\nWorks best on devices with a LIDAR sensor, but other devices are supported.","name":"GearGlimpseRevolution","permissions":[{"type":"camera","usageDescription":"Camera is required for AR Experiences"},{"type":"network","usageDescription":"GearGlimpse uses the network to communicate with your robot or simulator."},{"type":"motion","usageDescription":"Motion Data is required for AR experiences"}],"reviewRating":0.0,"screenshotURLs":["https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/1","https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/2","https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/3"],"screenshots":{"ipad":[],"iphone":["https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/0","https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/1","https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/2","https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/3"]},"size":56509966,"subtitle":"FRC AR Tools for iOS","tintColor":"ffde59","version":"0.0.4","versionDate":"2024-07-04T18:31:19.999422+00:00","versionDescription":"The following are the highlights of the changes since 0.0.1. For a complete changelog, read the release notes on [github](https://github.com/nab138/GearGlimpseRevolution/releases).\n\nNew Features:\n- Game piece (note) visualization\n- Trajectory visualization\n- View FMS Data & Command scheduler in floating windows above the field\n- Proof-of-concept AprilTag detection (will be used for field alignment in the future)\n- Custom Robots and more defaults\n- Translucent or invisible field options\n- Many, many bug fixes\n-","versions":[{"channel":"stable","date":"2024-07-04T18:31:19.999422+00:00","downloadURL":"https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.4/me.nabdev.gearglimpserev_0.0.4.ipa","localizedDescription":"The following are the highlights of the changes since 0.0.1. For a complete changelog, read the release notes on [github](https://github.com/nab138/GearGlimpseRevolution/releases).\n\nNew Features:\n- Game piece (note) visualization\n- Trajectory visualization\n- View FMS Data & Command scheduler in floating windows above the field\n- Proof-of-concept AprilTag detection (will be used for field alignment in the future)\n- Custom Robots and more defaults\n- Translucent or invisible field options\n- Many, many bug fixes\n-","size":56509966,"version":"0.0.4"},{"channel":"stable","date":"2024-05-25T17:29:55.451014+00:00","downloadURL":"https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.1/me.nabdev.gearglimpserev_0.0.1.ipa","localizedDescription":"Initial Release","size":50045250,"version":"0.0.1"}]}],"description":"This is the default source for SideStore, providing SideStore itself as well as many other apps from the community.\n\nIf you want to be part of the community without any hazzle, go to connect.sidestore.io and start distributing your apps today!","featuredApps":["com.SideStore.SideStore"],"feedbackURL":"https://connect.sidestore.io/api/altstore/feedback","headerURL":"https://connect.sidestore.io/public/header.png","iconURL":"https://connect.sidestore.io/public/icon.png","identifier":"io.sidestore.connect","name":"SideStore Connect","news":[{"appID":null,"caption":"Apollo is back with custom API credentials!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"70e9282d-e53e-48b8-9464-333bd16af9b2","imageURL":"https://connect.sidestore.io/public/news/70e9282d-e53e-48b8-9464-333bd16af9b2/image.png","notify":false,"tintColor":"3F91FE","title":"Apollo for Reddit is now on Altstore","url":"https://balackburn.github.io/Apollo/"},{"appID":null,"caption":"Update of Apollo (with Artemis) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"9ea4baf9-fa11-4f3d-b12c-ee7d069346d9","imageURL":"https://connect.sidestore.io/public/news/9ea4baf9-fa11-4f3d-b12c-ee7d069346d9/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.4 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.4"},{"appID":"com.foo.Apollo","caption":"Update of Apollo (with ImprovedCustomApi) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"89985648-d394-41c7-992b-635b54f84e73","imageURL":"https://connect.sidestore.io/public/news/89985648-d394-41c7-992b-635b54f84e73/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.0.5 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.5"},{"appID":"com.foo.Apollo","caption":"Update of Apollo (with ImprovedCustomApi) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"b37d23f4-24d3-4f88-a081-4f7ca93342b1","imageURL":"https://connect.sidestore.io/public/news/b37d23f4-24d3-4f88-a081-4f7ca93342b1/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.0.7 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.7"},{"appID":"com.foo.Apollo","caption":"Update of Apollo (with ImprovedCustomApi) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"4e5ed69c-185d-4d8f-b9c8-f59d67f2f2f5","imageURL":"https://connect.sidestore.io/public/news/4e5ed69c-185d-4d8f-b9c8-f59d67f2f2f5/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.0.8 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.8"},{"appID":"com.foo.Apollo","caption":"Update of Apollo (with ImprovedCustomApi) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"eef14e91-2228-4005-a1ae-747ee57a5a3e","imageURL":"https://connect.sidestore.io/public/news/eef14e91-2228-4005-a1ae-747ee57a5a3e/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.0.9 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.9"},{"appID":"com.foo.Apollo","caption":"Update of Apollo (with ImprovedCustomApi) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"d4af20a7-0c72-4e39-8c92-acc7661ed635","imageURL":"https://connect.sidestore.io/public/news/d4af20a7-0c72-4e39-8c92-acc7661ed635/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.0.10 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.10"},{"appID":"com.foo.Apollo","caption":"Update of Apollo (with ImprovedCustomApi) just got released!","channel":"stable","date":"2024-03-08T13:04:33.286082+00:00","identifier":"dc376e6f-fd03-43db-b5c2-2a08e68ee8ad","imageURL":"https://connect.sidestore.io/public/news/dc376e6f-fd03-43db-b5c2-2a08e68ee8ad/image.png","notify":false,"tintColor":"3F91FE","title":"1.15.11-1.0.11 - Apollo for Reddit","url":"https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.11"},{"appID":"com.NCX-Programming.RNGToolMobile","caption":"RNGTool is now available on SideStore, thanks to SideStore Connect! You can now get your random number generating fix with ease via the SideStore Connect repository. New features such as motion-based gestures for rolling the dice and rolling marbles are also coming soon!","channel":"stable","date":"2024-03-09T21:50:20.931054+00:00","identifier":"7fb74724-775f-44e8-8c0c-78dd3b77e269","imageURL":null,"notify":false,"tintColor":"ff5814","title":"RNGTool is now on SideStore!","url":null},{"appID":"tim.test","caption":"Sobald die App verf\u00fcgbar ist kann sie hier heruntergeladen werden","channel":"stable","date":"2024-08-16T12:20:32.311287+00:00","identifier":"98cc072d-bc05-4074-b407-2f6a5e88ca15","imageURL":null,"notify":true,"tintColor":"0056d6","title":"SimpleBrowser 1.0 Kommt bald raus!","url":null},{"appID":null,"caption":"We are happy to announce that SalupovTeam is now in SideStore!","channel":"stable","date":"2024-10-23T08:36:32.606715+00:00","identifier":"49e75b5f-8955-4165-b542-a74e61d88652","imageURL":"https://connect.sidestore.io/public/news/49e75b5f-8955-4165-b542-a74e61d88652/image.png","notify":false,"tintColor":"000000","title":"SalupovTeam in SideStore!","url":"https://salupovteam.com"}],"sourceURL":"https://connect.sidestore.io/apps.json","subtitle":"The community driven, one-stop source for your favorite apps. ","tintColor":"#7a219e","website":"https://connect.sidestore.io"}
+{
+  "apps": [
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "beta": false,
+      "bundleIdentifier": "com.NCX-Programming.RNGToolMobile",
+      "category": "utilities",
+      "developerName": "NCX Programming",
+      "downloadURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random letters, right from your phone!\n\n## Features:\n### Numbers\nGenerate a single random number using only a minimum and maximum number. The simplest way to generate numbers.\n\n### Dice\nGenerate up to 6 random numbers using 6-sided dice.\n\n### Cards\nGenerate up to 7 random numbers using cards. You can optionally display the point values of the cards drawn, with the Ace being toggleable between 1 and 11 points.\n\n### Marbles\nGenerate up to 5 random letters using marbles. Marble icons are shown with the letter on them.\n\nRNGTool is fully open source, and the source can be found [on GitHub](https://github.com/NCX-Programming/RNGTool).\n\nNote that a watchOS extension app for RNGTool exists, but is currently unsupported by AltStore/SideStore. Should it become supported, it will be added here, however you will need to install the IPA manually for now if you want it. RNGTool is also available for macOS in the GitHub repository.",
+      "name": "RNGTool",
+      "permissions": [],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/0",
+        "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/1",
+        "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/2",
+        "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/3",
+        "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/4"
+      ],
+      "screenshots": {
+        "ipad": [],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/0",
+          "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/1",
+          "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/2",
+          "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/3",
+          "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/2.0.0/screenshots/iphone-full-screen/4"
+        ]
+      },
+      "size": 3896362,
+      "subtitle": "The best way to generate random numbers on iOS",
+      "tintColor": "ff5814",
+      "version": "2.0.0",
+      "versionDate": "2024-03-09T17:21:39.209569+00:00",
+      "versionDescription": "## v2.0.0: State restoration!\n### What's new on iOS:\n- Interface settings are now separate from advanced settings and are shown in the main settings screen.\n    - These settings include \"Ask to confirm resets\" and \"Show tap hints\".\n- Number Mode now saves your result, max number and min number while the app is running.\n    - A toggle has been added to advanced settings to disable this.\n- Number settings now saves your default numbers as you type.\n- Default numbers now reset correctly.\n- The text on the marbles in Marble Mode now scales with the display size.",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-03-09T17:21:39.209569+00:00",
+          "downloadURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa",
+          "localizedDescription": "## v2.0.0: State restoration!\n### What's new on iOS:\n- Interface settings are now separate from advanced settings and are shown in the main settings screen.\n    - These settings include \"Ask to confirm resets\" and \"Show tap hints\".\n- Number Mode now saves your result, max number and min number while the app is running.\n    - A toggle has been added to advanced settings to disable this.\n- Number settings now saves your default numbers as you type.\n- Default numbers now reset correctly.\n- The text on the marbles in Marble Mode now scales with the display size.",
+          "size": 3896362,
+          "version": "2.0.0"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM also uses the local network to communicate with AltServer.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.utmapp.UTM",
+      "category": "other",
+      "developerName": "osy",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/com.utmapp.UTM/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\nMore information at [https://getutm.app/](https://getutm.app/)\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
+      "name": "UTM Virtual Machines",
+      "permissions": [
+        {
+          "type": "location",
+          "usageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "Permission is required for any virtual machine to record from the microphone."
+        },
+        {
+          "type": "network",
+          "usageDescription": "The virtual machine may access the local network. UTM also uses the local network to communicate with AltServer."
+        }
+      ],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/0",
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/1",
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/2",
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/3",
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/4",
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/5",
+        "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/6"
+      ],
+      "screenshots": {
+        "ipad": [],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/0",
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/1",
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/2",
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/3",
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/4",
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/5",
+          "https://connect.sidestore.io/public/apps/com.utmapp.UTM/4.5.4/screenshots/iphone-home-button/6"
+        ]
+      },
+      "size": 122064838,
+      "subtitle": "Virtual machines for iOS",
+      "tintColor": "1a2cc2",
+      "version": "4.5.4",
+      "versionDate": "2024-11-10T01:40:00.408717+00:00",
+      "versionDescription": "- Fixed an issue causing \"The file ... couldn't be opened\" immediately after creating a new VM (#6398)\n- The timestamp of the .utm package will always update to the last time it runs, this should make managing backups easier (#6474)\n- Fixed the error \"Failed to lock byte 100: Operation not supported\" when trying to attach an ISO which the OS has mounted or from a network drive that does not support locking (#6564)\n- Fixed an issue where release notes loading can be delayed by a lack of internet connection (it should just fail silently)\n- Localization: Added Arabic (thanks @muhammadbahaa2001)\n- Localization: Updated Chinese (Simplified + Hong Kong) (thanks @changanmoon)\n- Localization: Updated Japanese (thanks @MMP0)\n- Updated DEB to support rootless\n- Terminal lines no longer get hidden by the top curved edge or by the keyboard (#6482)\n- Fixed an issue where importing a drive shows up as a removable drive (#6485)\n- Fixed an issue where creating a new drive sometimes automatically closes the popup\n- External displays can now view serial output terminals (#6594)\n- Added new tips overlay for new users",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-11-10T01:40:00.408717+00:00",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM.ipa",
+          "localizedDescription": "- Fixed an issue causing \"The file ... couldn't be opened\" immediately after creating a new VM (#6398)\n- The timestamp of the .utm package will always update to the last time it runs, this should make managing backups easier (#6474)\n- Fixed the error \"Failed to lock byte 100: Operation not supported\" when trying to attach an ISO which the OS has mounted or from a network drive that does not support locking (#6564)\n- Fixed an issue where release notes loading can be delayed by a lack of internet connection (it should just fail silently)\n- Localization: Added Arabic (thanks @muhammadbahaa2001)\n- Localization: Updated Chinese (Simplified + Hong Kong) (thanks @changanmoon)\n- Localization: Updated Japanese (thanks @MMP0)\n- Updated DEB to support rootless\n- Terminal lines no longer get hidden by the top curved edge or by the keyboard (#6482)\n- Fixed an issue where importing a drive shows up as a removable drive (#6485)\n- Fixed an issue where creating a new drive sometimes automatically closes the popup\n- External displays can now view serial output terminals (#6594)\n- Added new tips overlay for new users",
+          "size": 122064838,
+          "version": "4.5.4"
+        },
+        {
+          "channel": "stable",
+          "date": "2023-10-08T04:28:35.080873+00:00",
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.ipa",
+          "localizedDescription": "## Highlights\n* **Rewrite of QEMU support internals.** Much of the code to support QEMU has been refactored into a new project, [QEMUKit](https://github.com/utmapp/QEMUKit), which will make it easier to support QEMU changes as well as support for new platforms.\n* **TPM 2.0 and Secure Boot** This is required for Windows 11 updates to 22H2. To enable TPM on an existing virtual machine (only x86_64, i386, and ARM64 architectures are supported), open the VM settings, go to the QEMU page and select \"UEFI Boot\", \"TPM 2.0 Device\", and \"Reset UEFI Variables.\" Any new VM created through the wizard will have TPM 2.0 and Secure Boot enabled by default if Windows 10+ support is checked.\n* **Download Windows installer with a new utility.** We know that creating a Windows installer can be a hassle which is why we are releasing a new free tool called CrystalFetch which can be found on [GitHub](https://github.com/TuringSoftware/CrystalFetch) as well as free on the [Mac App Store](https://apps.apple.com/app/crystalfetch-iso-downloader/id6454431289). This companion to UTM will allow you to generate a Windows 11 ISO with a few clicks (no Terminal, Homebrew, or scripts required). Note that just like before, you still need a valid license from Microsoft to use Windows.\n\n## Notes\n* On i386 and x86_64 machines, HPET is now disabled by default. This improves performance (slightly) on some guests and also addresses boot issues with OpenIndiana. This change means that suspended VM state from previous versions are not compatible, so please shut down those VMs before updating. If you require HPET to be enabled for any reason, go into the VM's settings and under QEMU → QEMU Machine Properties, add the text `hpet=on`.\n* In v4.3.5, we rolled back backend updates to QEMU and EDK2 due to a critical issue that prevented VMs from booting. While the issue is investigated, the last stable version will be used and once the issue is resolved, a new update will be released.\n* If you suspended an Apple Virtualization VM in v4.4 and then downgrade to v4.3, you will not be able to resume the VM or start it at all. Please make sure you shut down any such VMs before downgrading or you may suffer data loss.\n\n## Changes (v4.3.5)\n* Rollback QEMU version to 7.2.0\n* Rollback EDK2 firmware to edk2-stable202102\n* Reduced amount of logging when Debug Log is not checked\n* (macOS) Wizard: Fixed boot ISO not saving for AVF (#5517)\n\n## Changes (v4.3.4)\n* Localization: Updated Japanese (thanks @MMP0)\n* Fixed WebDAV shared directory not setup on start (#5506)\n* (macOS) Improved debug logging by showing more verbose logging for SPICE. If \"Enable Debug Log\" is selected, more verbose logging will be activated.\n* (macOS) Fixed an issue where the VM freezes or shows \"port not connected\" when the computer is under memory pressure (#5489)\n* (macOS 11) Disabled options in the context menu which had broken UI leading to freezes or crashes (#5147)\n* (macOS 12) Wizard: Fixed a crash when selecting a file with VoiceOver (#5250)\n* (macOS 12+) Settings: new table view for QEMU custom arguments\n\n## Changes (v4.3.3)\n* Fixed a crash when selecting a VM (#5481)\n* Fixed a crash when starting a VM and an error occurred when creating display/serial devices (#5472)\n* Fixed boot issues when trying to load OpenIndiana by disabling HPET timers by default (#2394)\n* Fixed an issue where selected removable drive image and shared directory are not syncing correctly\n* QEMUKit: Fixed race condition when multiple RPC commands are sent (#5477)\n* EDK2: Fixed an issue preventing some versions of Windows 11 from booting (#5495)\n* utmctl: Add a more verbose error message when utmctl fails because it is launched from an SSH session or before logging in (#5499)\n* Wizard: Fixed selected boot ISO not saving (#5471)\n* Wizard: Link to CrystalFetch when Windows is selected\n* (macOS) AVF: Automatically un-capture system keys when VM terminates\n\n## Changes (v4.3.2)\n* The last update introduced two units per bus for IDE devices. However, some machines do not support this configuration, so now two units per bus will only be enabled for supported machines. Other machines will retain pre v4.3.1 behaviour.\n* Fixed some state tracking issues leading to various errors when a VM is quickly stopped and started again.\n* Changed the style of the icons on various VM operations in the home screen and context menu (iOS) (thanks @jnsdrtlf) (#5441, #4759)\n* Fixed an issue where serial device hardware was not saved\n* Fixed the error that shows up when trying to rename a VM (#5444)\n* Fixed a crash on startup due to mishandling of VM parsing (#5424)\n* Fixed debug logging not working due to backend changes in v4.3.1\n* Fixed a crash when QEMU tries to output non-printable characters\n* Add support for SWTPM for TPM 2.0 emulation\n* Add Secure Boot firmware for ARM64. Only the Secure Boot firmwares have TPM 2.0 support built in, so when TPM 2.0 and UEFI are enabled, UTM will automatically select the Secure Boot firmware. By default the UTM platform keys and Microsoft key exchange keys are enrolled. You can manually set up your own keys from the UEFI menu.\n* Updated the EDK2 UEFI firmware to the 202305 release\n* Debug logs will no longer be deleted when a VM configuration is saved and debug log is not disabled\n* Fixed an issue where the mouse cursor stopped working due to backend changes in v4.3.1\n* If the Documents directory does not exist in UTM's container, it will now be created automatically. This addresses an error that shows up if the Documents directory does not get created properly by macOS. (#5419)\n* Localization: Updated Japanese (thanks @MMP0)\n* (iOS) Fixed an issue where TSO setting was not saved\n* (macOS) Fixed an issue where every time a VM is started with a terminal window, the width of the window gets a bit larger\n* (macOS) Fixed an issue where starting a stopped VM does not change the display scale\n* (macOS) AVM: System keys will be captured automatically when entering full screen and released when exiting full screen (#3668)\n* (macOS) AVM: Fixed the request stop method in both the GUI and scripting interfaces (#5425)\n\n## Changes (v4.3.1)\n* Updated QEMU backend to v8.0.2\n* Refactored QEMU support to a new project: [QEMUKit](https://github.com/utmapp/QEMUKit)\n* Machines with IDE interface (i44FX/PIIX) will now support two units per bus. Previously, we mapped IDE devices to one unit per bus. This means on some machines, the limit was two devices maximum. Now, we map two units per IDE bus which should increase the limit to four devices. Existing VMs will _not_ get this change automatically in order to maintain compatibility. You can choose to opt-in to this new mapping by pressing the “Update Interface” button on each IDE drive in the VM settings. (#5358)\n* Localization: Updated Japanese (thanks @MMP0 and @studio1a9)\n* (macOS) Fixed crash when AVM window is closed (#5347)\n* (macOS) New option “Automatic” for bridged network connection which will use the bridge the first active connection on the host. Both AVM and QEMU backends are supported. (#5410)\n* (macOS) Fixed trackpad setting not saving (#5369)\n\n## Changes (v4.3.0)\n* Updated QEMU backend to v8.0.0\n* Changed audio backend from CoreAudio back to SPICE (as it was before v4.2.x). Clarify that CoreAudio backend does not support microphone (#5253)\n* Add support for mouse buttons 4 and 5 (#5295)\n* Wizard: Properly display an error message when there is a failure writing to disk (#5271)\n* Fixed an issue where ISAPC emulation target cannot be started (#5280)\n* Fixed CoreAudio being instantiated even when audio is disabled\n* Fixed an issue where legacy VMs with AC97 sound card has an empty name in settings\n* Fixed an QEMU issue where the `ucomiss` instruction causes a crash in some applications (#5294)\n* Fixed an issue preventing VMs with commas in their name from starting (note only new VMs will be fixed) (#5332)\n* (macOS) AVM: Support canceling macOS installation\n* (macOS) utmctl: Added `delete` command (#5290)\n* (macOS) Fixed an issue creating a shortcut from drag & drop as well as double clicking from Finder (#5310, #5311)\n* (macOS) Added DHCP start/end settings for vmnet (#5301)\n* (macOS) Added automatically syncing of system clock when macOS wakes up from sleep (when QEMU guest agent is installed) (#5252)\n\n## Issues\nPlease check the full list on [Github](https://github.com/utmapp/UTM/issues) and help report any bug you find that is not listed.\n\n## Installation\n\n* [iOS](https://docs.getutm.app/installation/ios/)\n* [macOS](https://docs.getutm.app/installation/macos/)\n\n| File | Description | Installation | JIT | Hypervisor | USB |\n|------|------------|--------------|-----|-----------|-----|\n| UTM.deb | Jailbroken iOS version | Open in Cydia, dpkg, or Sileo | Yes | Yes(1) | Yes |\n| UTM.dmg | macOS version | Mounting and copying UTM.app to /Applications | Yes | Yes | Yes |\n| UTM.ipa | Non-jailbroken iOS version (sideloading) | AltStore, etc (see guide) | Yes(2) | No | No |\n| UTM.HV.ipa | Non-jailbroken iOS version (TrollStore) | TrollStore | Yes | Yes(1) | Yes |\n| UTM.SE.ipa | Non-jailbroken iOS version (sideloading) | AltStore, enterprise signing, etc | No | No | No |\n\n1. Hypervisor on iOS requires an M1 iPad.\n2. Enabling JIT may require a separate JIT enabler such as [Jitterbug][2] or Jitstreamer.\n\n[1]: https://getutm.app/install/\n[2]: https://github.com/osy/Jitterbug",
+          "size": 123210353,
+          "version": "4.3.5"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "beta": false,
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "category": "other",
+      "developerName": "khanhduytran0",
+      "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.1/com.kdt.livecontainer_2.1.1.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "Run iOS app without actually installing it!\n- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!)\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.\n\n## Compatibility\nUnfortunately, not all apps work in LiveContainer, so we have a [compatibility list](https://github.com/khanhduytran0/LiveContainer/labels/compatibility) to tell if there is apps that have issues. If they aren't on this list, then it's likely going run. However, if it doesn't work, please make an [issue](https://github.com/khanhduytran0/LiveContainer/issues/new/choose) about it.\n\n## Usage\n- Open LiveContainer, tap the plus icon in the upper right hand corner and select IPA files to install.\n- Choose the app you want to open in the next launch.\n\n### With JIT\n- Tap the play icon, it will jump to SideStore and exit.\n- In SideStore, hold down LiveContainer and tap `Enable JIT`. If you have SideStore build supporting JIT URL scheme, it jumps back to LiveContainer with JIT enabled and the guest app is ready to use.\n\n### Without JIT\n> [!NOTE]\n> You need to setup JIT-less mode once. This can be done by pressing \"Setup JIT-less\" and following instructions.\n\n- Tap the play icon, it will attempt to restart LiveContainer with guest app loaded.\n\n### Installing external tweaks\nTo install tweaks, you can use the built-in tweak manager in LiveContainer, which will automatically sign tweaks as you import. Otherwise, you can manually add them and then use the tweak manager to sign them.\n\n## How does it work?\nSee [README.md](https://github.com/khanhduytran0/LiveContainer#how-does-it-work)\n\n## Limitations\n- Entitlements from the guest app are not applied to the host app. This isn't a big deal since sideloaded apps requires only basic entitlements.\n- App Permissions are globally applied.\n- Guest app containers are not sandboxed. This means one guest app can access other guest apps' data.\n- Only one guest app can run at a time. This is much more like 3 apps limit where you have to disable an app to run another (switching between app in LiveContainer is instant).\n- Remote push notification might not work.\n- Querying URL schemes might not work(?)",
+      "name": "LiveContainer",
+      "permissions": [],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/0",
+        "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/1",
+        "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/2"
+      ],
+      "screenshots": {
+        "ipad": [],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/0",
+          "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/1",
+          "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/2.1.1/screenshots/iphone-home-button/2"
+        ]
+      },
+      "size": 195840,
+      "subtitle": "Contanerize your apps without app limits!",
+      "tintColor": "0069e2",
+      "version": "2.1.1",
+      "versionDate": "2024-08-08T05:31:29.800995+00:00",
+      "versionDescription": "- Fix `code signature invalid` issue",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-08-08T05:31:29.800995+00:00",
+          "downloadURL": "https://github.com/khanhduytran0/LiveContainer/releases/download/2.1.1/com.kdt.livecontainer_2.1.1.ipa",
+          "localizedDescription": "- Fix `code signature invalid` issue",
+          "size": 195840,
+          "version": "2.1.1"
+        },
+        {
+          "channel": "stable",
+          "date": "2023-08-06T22:36:54.988306+00:00",
+          "downloadURL": "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/app.ipa",
+          "localizedDescription": "inital release",
+          "size": 80633,
+          "version": "1.0"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "To use the vpn for main functions via WireGuard.",
+          "NSPhotoLibraryUsageDescription": "To add custom icons for apps."
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "category": "utilities",
+      "developerName": "SideStore Team",
+      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "SideStore is the home of untethered sideloading on iOS and iPadOS.\n\n[SideStore](https://sidestore.io) is an iOS application that allows you to sideload apps onto your iOS device with just your Apple ID. SideStore resigns apps with your personal development certificate, and then uses a specially designed VPN in order to trick iOS into installing them. SideStore will periodically \"refresh\" your apps in the background, to keep their normal 7-day development period from expiring.\n\nSideStore's goal is to provide an untethered sideloading experience. It's a community driven fork of AltStore, and has already implemented some of the community's most-requested features.",
+      "name": "SideStore",
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "SideStore uses audio for longer than 30 seconds so it can refresh apps in the background."
+        },
+        {
+          "type": "background-fetch",
+          "usageDescription": "This permission is so SideStore can refresh apps without the app being open."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "To add custom icons for apps."
+        },
+        {
+          "type": "network",
+          "usageDescription": "To use the vpn for main functions via WireGuard."
+        }
+      ],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/0",
+        "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/1",
+        "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/2",
+        "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/3",
+        "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/4",
+        "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/5"
+      ],
+      "screenshots": {
+        "ipad": [],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/0",
+          "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/1",
+          "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/2",
+          "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/3",
+          "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/4",
+          "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/0.5.8/screenshots/iphone-home-button/5"
+        ]
+      },
+      "size": 9351984,
+      "subtitle": null,
+      "tintColor": "982abc",
+      "version": "0.5.8",
+      "versionDate": "2024-08-16T08:09:10.927234+00:00",
+      "versionDescription": "## What's Changed:\n* UI Improvements for the Anisette Servers View. by @0-Blu in #672\n* Added more feedback options. by @0-Blu in #673\n* Fix SideJITServer Support for iOS 17+ by @stossy11 in #674\n* Makes revoking optional by @junepark678 in #675\n* Better pairing file info by @bogotesr in #676\n* Selective app extension removal by @junepark678 in #677\n* legal: developer's certificate of origin 1.1 by @polymo1 in #686\n## New Contributors:\n* @0-Blu made their first contribution in #672",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-08-16T08:09:10.927234+00:00",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
+          "localizedDescription": "## What's Changed:\n* UI Improvements for the Anisette Servers View. by @0-Blu in #672\n* Added more feedback options. by @0-Blu in #673\n* Fix SideJITServer Support for iOS 17+ by @stossy11 in #674\n* Makes revoking optional by @junepark678 in #675\n* Better pairing file info by @bogotesr in #676\n* Selective app extension removal by @junepark678 in #677\n* legal: developer's certificate of origin 1.1 by @polymo1 in #686\n## New Contributors:\n* @0-Blu made their first contribution in #672",
+          "size": 9351984,
+          "version": "0.5.8"
+        },
+        {
+          "channel": "stable",
+          "date": "2024-08-16T01:53:18.852595+00:00",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.7/SideStore.ipa",
+          "localizedDescription": "Happy August! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having.\n\nWhat's Changed:\n- Added Stossy11 Anisette Server by stossy11\n- Added SideJITServer Support for Enabling JIT on iOS 17+ by @stossy11\n- Change AltStore Expiring Soon to SideStore Expiring Soon by therealFoxster\n- Add Dynamic anisette servers\n- Update to altstore 1.6.3 by @junepark678 @nythepegasus\n- Include Enable JIT errors in Error Log\n- Fix minimuxer status checking\n- Update no wifi message to include VPN\n- Opens Error Log when tapping ToastView\n- Fixes Error Log context menu covering cell content\n- Fixes Error Log context menu appearing while scrolling\n- Fixes incorrect Search FAQ URL\n- Fix Error Log showing UIAlertController on iOS 14+\n- Fix Error Log not showing UIAlertController on iOS <=13\n- Fix wrong color in AuthenticationViewController\n\n\nThanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our [Discord](https://discord.gg/sidestore-949183273383395328)!",
+          "size": 9341239,
+          "version": "0.5.7"
+        },
+        {
+          "channel": "stable",
+          "date": "2024-03-16T01:37:02.092240+00:00",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.6/SideStore.ipa",
+          "localizedDescription": "Everything in 0.5.5 along with\n* Add description on what disable idle timeout toggle + change add to Siri text for accuracy by @Spidy123222\n* Remove patreon exclusivity message for sources by @Spidy123222\n* Add ani.wesbryie.com to Anisette list by @WesleyBryie\n* Actually, attempt to (hackily) fix embedded pairing file issues @nythepegasus",
+          "size": 9203929,
+          "version": "0.5.6"
+        },
+        {
+          "channel": "stable",
+          "date": "2024-01-09T02:30:29.009556+00:00",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.4/SideStore.ipa",
+          "localizedDescription": "Happy November!\nSince we had to do a quick fix this update. We have been very busy with doing quality of life changes and fixing bugs everyone’s been having.\n\nWhat's Changed:\n- Clear cache button to help with the large size issues.\n- Fix: Fix AppID Crash\n- Version in settings showing as develop\n- Added Timeout Feature so when you install an app. Your device will not time out and mess up the install.\n- Remove the heavy reliance on Info.plist for UDID.\n- Better formatted dates so for example instead of it being 0 days it'll say 19 hours/30 minutes.\n- Fix: fix AltWidget AppGroup Issue.\n- Fix: Use forked libplist",
+          "size": 9202680,
+          "version": "0.5.4"
+        },
+        {
+          "channel": "stable",
+          "date": "2023-07-29T18:13:12.553817+00:00",
+          "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.0/SideStore.ipa",
+          "localizedDescription": "# Changes\n* [bugfix] Widget now functions properly from Github Actions builds\n* [bugfix] Installing and refreshing apps should be much more stable\n* [bugfix] Reintroduce notification when refreshing SideStore\n* [feature] Add retries to enabling JIT to make it a little more stable\n* [feature] Change the default anisette server to be https://ani.sidestore.io/ instead of the 6969 port (which no longer exists)\n* [UI] Change the Patreon screen to display our different social media accounts\n* [upstream] Fix many deprecation warnings\n* [upstream] Fix \"Open in..\" file dialog not working for SideStore\n* [upstream] Fix various UI elements to be more performant/less buggy",
+          "size": 9157428,
+          "version": "0.5.0"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "beta": false,
+      "bundleIdentifier": "me.kingbri.ferrite",
+      "category": "other",
+      "developerName": "RoyalLab",
+      "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.1/Ferrite-iOS_v0.7.1.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "Ferrite is a magnet search engine and debrid management app for iOS.\n\nCompared to other platforms, iOS doesn't have any good options for using debrid services with media. Ferrite aims to change that by giving users a simple UI and an extensible framework to search the websites you want without all the clutter.\n\nBut, what is debrid? Well, it's a bunch of servers in the cloud that cache media from P2P sharing services. Therefore, a user does not have to worry about waiting for a P2P download to finish or waste storage space on one large file.\n\nFerrite also has other features for convenience including:\n- Local library with history and bookmarks\n- Cloud management\n- Kodi integration\n- Ad-free\n- Flexible parser written in native Swift\n- Intuitive filters while searching\n\nThese are the currently supported debrid services:\n- RealDebrid\n- AllDebrid\n- Premiumize\n- TorBox\n- OffCloud\n\nThe app is free and 100% open sourced: https://github.com/Ferrite-iOS/ferrite\n\nMore information is in the app website: https://kingbri.dev/ferrite\n\nHappy watching!",
+      "name": "Ferrite",
+      "permissions": [],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/0",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/1",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/2",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/3",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/4",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/5",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/6",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/7",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/8",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/9",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/10",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/11",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/12",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/13",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/14",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/15",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/16",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/17",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/18",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/19",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/20",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/21",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/22",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/23",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/24",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/25",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/26",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/27",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/28",
+        "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/29"
+      ],
+      "screenshots": {
+        "ipad": [
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/1",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/4",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/6",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/9",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/14",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/17",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/19",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/23",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/26",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/ipad/28",
+            "width": 2360
+          }
+        ],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/0",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/2",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/3",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/5",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/7",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/8",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/10",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/11",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/12",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/13",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/15",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/16",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/18",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/20",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/21",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/22",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/24",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/25",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-full-screen/27",
+          "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/0.7.1/screenshots/iphone-home-button/29"
+        ]
+      },
+      "size": 1671340,
+      "subtitle": null,
+      "tintColor": "000000",
+      "version": "0.7.1",
+      "versionDate": "2024-06-14T17:05:47.342957+00:00",
+      "versionDescription": "This is the last version for iOS 15.0. Newer builds will require iOS 16.0 and higher to run.\n\nChangelog:\nFeatures:\n- Overhauled the internal logic for Debrid services\n- Added support for sources that include \"library-like\" listings via the {queryFirstLetter} param\n- Add TorBox and OffCloud support\n- Fixed seeder list with htmlParser\n- Add the ability to set request headers and body in a Plugin\n- Cleanup and fix bugs + UI issues",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-06-14T17:05:47.342957+00:00",
+          "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.1/Ferrite-iOS_v0.7.1.ipa",
+          "localizedDescription": "This is the last version for iOS 15.0. Newer builds will require iOS 16.0 and higher to run.\n\nChangelog:\nFeatures:\n- Overhauled the internal logic for Debrid services\n- Added support for sources that include \"library-like\" listings via the {queryFirstLetter} param\n- Add TorBox and OffCloud support\n- Fixed seeder list with htmlParser\n- Add the ability to set request headers and body in a Plugin\n- Cleanup and fix bugs + UI issues",
+          "size": 1671340,
+          "version": "0.7.1"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": ""
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.stossy11.SideJIT",
+      "category": "developer",
+      "developerName": "Stossy11 | nythepegasus",
+      "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "Its an app to enable JIT on iOS 17 with macOS or Windows without needing to interact with the computer at all. using nythepegasus SideJITServer you can find [it here](https://github.com/nythepegasus/SideJITServer)",
+      "name": "SideJIT",
+      "permissions": [
+        {
+          "type": "network",
+          "usageDescription": "Used to get JIT enabled on iOS 17"
+        }
+      ],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/0",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/1",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/2",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/3",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/4",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/5",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/6",
+        "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/7"
+      ],
+      "screenshots": {
+        "ipad": [
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/1",
+            "width": 2360
+          },
+          {
+            "height": 1640,
+            "imageURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/ipad/3",
+            "width": 2360
+          }
+        ],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/0",
+          "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/2",
+          "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/4",
+          "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/5",
+          "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-full-screen/6",
+          "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/0.0.4/screenshots/iphone-home-button/7"
+        ]
+      },
+      "size": 634794,
+      "subtitle": "Wireless JIT on iOS 17 (Windows or Mac) with SideJITServer",
+      "tintColor": "000000",
+      "version": "0.0.4",
+      "versionDate": "2024-04-16T03:03:34.811286+00:00",
+      "versionDescription": "Updated images on SideStore Connect this update will not come to the Github and will be skipped on github too",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-04-16T03:03:34.811286+00:00",
+          "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+          "localizedDescription": "Updated images on SideStore Connect this update will not come to the Github and will be skipped on github too",
+          "size": 634794,
+          "version": "0.0.4"
+        },
+        {
+          "channel": "stable",
+          "date": "2024-04-15T04:31:28.706830+00:00",
+          "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+          "localizedDescription": "1. New icon \n2. New Accent Colours\n3. Fixed Notifications\n4. Added Version in settings (doesnt work rn will get fixed next update lol\n5. Added https:// autocorrect \n6. a bit more that I forgot\n7. Fixed app not showing error when it cannot connect to the server",
+          "size": 634794,
+          "version": "0.0.3"
+        },
+        {
+          "channel": "stable",
+          "date": "2024-04-15T00:46:28.430668+00:00",
+          "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+          "localizedDescription": "1st Release",
+          "size": 128529,
+          "version": "0.0.1"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Needed for local coop"
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "io.anuke.mindustry.be",
+      "category": "games",
+      "developerName": "Unofficial Mindustry repository",
+      "downloadURL": "https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/icon.png",
+      "languages": ["en", "de", "fr"],
+      "localizedDescription": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce materials to use for building, and construct units. Command units to capture enemy bases, and expand your production. Defend your core from waves of enemies.\n\nGameplay Features:\n\n- Use production blocks to create a wide variety of advanced materials\n\n- Defend your structures from waves of enemies\n\n- Play with your friends in cross-platform multiplayer co-op games, or challenge them in team-based PvP matches\n\n- Distribute liquids and fight constant challenges, like outbreaks of fire or enemy flier raids\n\n- Get the most out of your production by supplying optional coolant and lubricant\n\n- Produce a wide variety of units for automatic management of your base or assault on enemy bases\n\n- Set up assembly lines to construct armies of mechanized units\n\n- Use your units to square up against fully functional enemy bases\n\n\nCampaign:\n\n- Conquer the planets Serpulo and Erekir as you advance through 35 hand-made maps and 250+ procedurally generated sectors\n\n- Capture territory and set up factories to produce resources while you play other sectors\n\n- Defend your sectors from periodic invasions\n\n- Coordinate resource distribution between sectors via launch pads\n\n- Research new blocks to fuel progress\n\n- Invite your friends to complete missions together\n\n- 250+ technology blocks to master\n\n- 50+ different types of drones, mechs and ships\n\n\nCustom Games & Cross-Platform Multiplayer:\n\n- 16+ built in maps for custom games, in addition to two entire campaigns\n\n- Play co-op, PvP or sandbox\n\n- Join a public dedicated server, or invite friends to your own private session\n\n- Customizable game rules: Change block costs, enemy stats, starting items, wave timing and more\n\n- Full functional map editor with scripting support",
+      "name": "Mindustry",
+      "permissions": [
+        {
+          "type": "network",
+          "usageDescription": "Needed for local coop"
+        }
+      ],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/0",
+        "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/1"
+      ],
+      "screenshots": {
+        "ipad": [],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/0",
+          "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/20021/screenshots/iphone-full-screen/1"
+        ]
+      },
+      "size": 118182344,
+      "subtitle": "A factory management TD/RTS",
+      "tintColor": "000000",
+      "version": "20021",
+      "versionDate": "2025-01-07T18:31:23.760006+00:00",
+      "versionDescription": "- Fixed a variety of issues with unit & block cost multiplier rules\n\n- Fixed many various crashes\n\n- Fixed pathfinding not being able to path through solid enemy blocks\n\n- Fixed naval units sometimes attempting to pathfind through land\n\n- Fixed water tiles with space background resulting in a black background\n\n- Fixed internal legacy blocks being logic constants\n\n- Fixed power node double-click leading to interaction rate limit triggering\n\n- Fixed units sometimes being unkillable\n\n- Fixed units with long paths sometimes recalculating forever\n\n- Fixed serious issue with player units getting bugged in certain maps with puddles\n\n- Fixed Neoplasia reactor sometimes not exploding\n\n- Fixed units randomly dying when hitting corners\n\n- Fixed piercing bullets permaturely hitting blocks \"under\" bullets\n\n- Fixed missiles dealing double damage to units\n\n- Fixed FPS not limiting accurately\n\n- Added setting to disable all lighting\n\n- Added logic unit autoPathfind command (default wave pathfinding)\n\n- Made logic unbind command set `@unit` to null\n\n- Made \"any\" environment accessible outside of sandbox\n\n- Made payload loaders no longer accept inputs from payload unloaders\n\n- Added logic sensors for shields, content ID (inverse of lookup command)\n\n- Added logic particle effect instruction\n\n- Added logic sync instruction\n\n- Setting factory output points now updates \"last accessed\"\n\n- Disabled team switching menu in multiplayer outside of sandbox/PvP\n\n- Decreased canvas block silicon cost slightly\n\n- Scathe ammo usage decreased to 15\n\n- Buffed Precept unit",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2025-01-07T18:31:23.760006+00:00",
+          "downloadURL": "https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa",
+          "localizedDescription": "- Fixed a variety of issues with unit & block cost multiplier rules\n\n- Fixed many various crashes\n\n- Fixed pathfinding not being able to path through solid enemy blocks\n\n- Fixed naval units sometimes attempting to pathfind through land\n\n- Fixed water tiles with space background resulting in a black background\n\n- Fixed internal legacy blocks being logic constants\n\n- Fixed power node double-click leading to interaction rate limit triggering\n\n- Fixed units sometimes being unkillable\n\n- Fixed units with long paths sometimes recalculating forever\n\n- Fixed serious issue with player units getting bugged in certain maps with puddles\n\n- Fixed Neoplasia reactor sometimes not exploding\n\n- Fixed units randomly dying when hitting corners\n\n- Fixed piercing bullets permaturely hitting blocks \"under\" bullets\n\n- Fixed missiles dealing double damage to units\n\n- Fixed FPS not limiting accurately\n\n- Added setting to disable all lighting\n\n- Added logic unit autoPathfind command (default wave pathfinding)\n\n- Made logic unbind command set `@unit` to null\n\n- Made \"any\" environment accessible outside of sandbox\n\n- Made payload loaders no longer accept inputs from payload unloaders\n\n- Added logic sensors for shields, content ID (inverse of lookup command)\n\n- Added logic particle effect instruction\n\n- Added logic sync instruction\n\n- Setting factory output points now updates \"last accessed\"\n\n- Disabled team switching menu in multiplayer outside of sandbox/PvP\n\n- Decreased canvas block silicon cost slightly\n\n- Scathe ammo usage decreased to 15\n\n- Buffed Precept unit",
+          "size": 118182344,
+          "version": "20021"
+        }
+      ]
+    },
+    {
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Camera is required for AR Experiences",
+          "NSLocalNetworkUsageDescription": "GearGlimpse uses the network to communicate with your robot or simulator.",
+          "NSMotionUsageDescription": "Motion Data is required for AR experiences"
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "me.nabdev.gearglimpserev",
+      "category": "utilities",
+      "developerName": "nab138",
+      "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.4/me.nabdev.gearglimpserev_0.0.4.ipa",
+      "iconURL": "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/icon.png",
+      "languages": ["en"],
+      "localizedDescription": "AR Tools for FRC! Connect to the simulator or robot and view it on the field in real-time. View the field in life-size or miniature!\n\nWorks best on devices with a LIDAR sensor, but other devices are supported.",
+      "name": "GearGlimpseRevolution",
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "Camera is required for AR Experiences"
+        },
+        {
+          "type": "network",
+          "usageDescription": "GearGlimpse uses the network to communicate with your robot or simulator."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Motion Data is required for AR experiences"
+        }
+      ],
+      "reviewRating": 0,
+      "screenshotURLs": [
+        "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/0",
+        "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/1",
+        "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/2",
+        "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/3"
+      ],
+      "screenshots": {
+        "ipad": [],
+        "iphone": [
+          "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/0",
+          "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/1",
+          "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/2",
+          "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/0.0.4/screenshots/iphone-full-screen/3"
+        ]
+      },
+      "size": 56509966,
+      "subtitle": "FRC AR Tools for iOS",
+      "tintColor": "ffde59",
+      "version": "0.0.4",
+      "versionDate": "2024-07-04T18:31:19.999422+00:00",
+      "versionDescription": "The following are the highlights of the changes since 0.0.1. For a complete changelog, read the release notes on [github](https://github.com/nab138/GearGlimpseRevolution/releases).\n\nNew Features:\n- Game piece (note) visualization\n- Trajectory visualization\n- View FMS Data & Command scheduler in floating windows above the field\n- Proof-of-concept AprilTag detection (will be used for field alignment in the future)\n- Custom Robots and more defaults\n- Translucent or invisible field options\n- Many, many bug fixes\n-",
+      "versions": [
+        {
+          "channel": "stable",
+          "date": "2024-07-04T18:31:19.999422+00:00",
+          "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.4/me.nabdev.gearglimpserev_0.0.4.ipa",
+          "localizedDescription": "The following are the highlights of the changes since 0.0.1. For a complete changelog, read the release notes on [github](https://github.com/nab138/GearGlimpseRevolution/releases).\n\nNew Features:\n- Game piece (note) visualization\n- Trajectory visualization\n- View FMS Data & Command scheduler in floating windows above the field\n- Proof-of-concept AprilTag detection (will be used for field alignment in the future)\n- Custom Robots and more defaults\n- Translucent or invisible field options\n- Many, many bug fixes\n-",
+          "size": 56509966,
+          "version": "0.0.4"
+        },
+        {
+          "channel": "stable",
+          "date": "2024-05-25T17:29:55.451014+00:00",
+          "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.1/me.nabdev.gearglimpserev_0.0.1.ipa",
+          "localizedDescription": "Initial Release",
+          "size": 50045250,
+          "version": "0.0.1"
+        }
+      ]
+    }
+  ],
+  "description": "This is the default source for SideStore, providing SideStore itself as well as many other apps from the community.\n\nIf you want to be part of the community without any hazzle, go to connect.sidestore.io and start distributing your apps today!",
+  "featuredApps": ["com.SideStore.SideStore"],
+  "feedbackURL": "https://connect.sidestore.io/api/altstore/feedback",
+  "headerURL": "https://connect.sidestore.io/public/header.png",
+  "iconURL": "https://connect.sidestore.io/public/icon.png",
+  "identifier": "io.sidestore.connect",
+  "name": "SideStore Connect",
+  "news": [
+    {
+      "appID": null,
+      "caption": "Apollo is back with custom API credentials!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "70e9282d-e53e-48b8-9464-333bd16af9b2",
+      "imageURL": "https://connect.sidestore.io/public/news/70e9282d-e53e-48b8-9464-333bd16af9b2/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "Apollo for Reddit is now on Altstore",
+      "url": "https://balackburn.github.io/Apollo/"
+    },
+    {
+      "appID": null,
+      "caption": "Update of Apollo (with Artemis) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "9ea4baf9-fa11-4f3d-b12c-ee7d069346d9",
+      "imageURL": "https://connect.sidestore.io/public/news/9ea4baf9-fa11-4f3d-b12c-ee7d069346d9/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.4 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.4"
+    },
+    {
+      "appID": "com.foo.Apollo",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "89985648-d394-41c7-992b-635b54f84e73",
+      "imageURL": "https://connect.sidestore.io/public/news/89985648-d394-41c7-992b-635b54f84e73/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.0.5 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.5"
+    },
+    {
+      "appID": "com.foo.Apollo",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "b37d23f4-24d3-4f88-a081-4f7ca93342b1",
+      "imageURL": "https://connect.sidestore.io/public/news/b37d23f4-24d3-4f88-a081-4f7ca93342b1/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.0.7 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.7"
+    },
+    {
+      "appID": "com.foo.Apollo",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "4e5ed69c-185d-4d8f-b9c8-f59d67f2f2f5",
+      "imageURL": "https://connect.sidestore.io/public/news/4e5ed69c-185d-4d8f-b9c8-f59d67f2f2f5/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.0.8 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.8"
+    },
+    {
+      "appID": "com.foo.Apollo",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "eef14e91-2228-4005-a1ae-747ee57a5a3e",
+      "imageURL": "https://connect.sidestore.io/public/news/eef14e91-2228-4005-a1ae-747ee57a5a3e/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.0.9 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.9"
+    },
+    {
+      "appID": "com.foo.Apollo",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "d4af20a7-0c72-4e39-8c92-acc7661ed635",
+      "imageURL": "https://connect.sidestore.io/public/news/d4af20a7-0c72-4e39-8c92-acc7661ed635/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.0.10 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.10"
+    },
+    {
+      "appID": "com.foo.Apollo",
+      "caption": "Update of Apollo (with ImprovedCustomApi) just got released!",
+      "channel": "stable",
+      "date": "2024-03-08T13:04:33.286082+00:00",
+      "identifier": "dc376e6f-fd03-43db-b5c2-2a08e68ee8ad",
+      "imageURL": "https://connect.sidestore.io/public/news/dc376e6f-fd03-43db-b5c2-2a08e68ee8ad/image.png",
+      "notify": false,
+      "tintColor": "3F91FE",
+      "title": "1.15.11-1.0.11 - Apollo for Reddit",
+      "url": "https://github.com/Balackburn/Apollo/releases/tag/v1.15.11-1.0.11"
+    },
+    {
+      "appID": "com.NCX-Programming.RNGToolMobile",
+      "caption": "RNGTool is now available on SideStore, thanks to SideStore Connect! You can now get your random number generating fix with ease via the SideStore Connect repository. New features such as motion-based gestures for rolling the dice and rolling marbles are also coming soon!",
+      "channel": "stable",
+      "date": "2024-03-09T21:50:20.931054+00:00",
+      "identifier": "7fb74724-775f-44e8-8c0c-78dd3b77e269",
+      "imageURL": null,
+      "notify": false,
+      "tintColor": "ff5814",
+      "title": "RNGTool is now on SideStore!",
+      "url": null
+    },
+    {
+      "appID": "tim.test",
+      "caption": "the new app will be released soon! once its released you can download it here!",
+      "channel": "stable",
+      "date": "2024-08-16T12:20:32.311287+00:00",
+      "identifier": "98cc072d-bc05-4074-b407-2f6a5e88ca15",
+      "imageURL": null,
+      "notify": true,
+      "tintColor": "0056d6",
+      "title": "SimpleBrowser 1.0 Release Soon!",
+      "url": null
+    },
+    {
+      "appID": null,
+      "caption": "We are happy to announce that SalupovTeam is now in SideStore!",
+      "channel": "stable",
+      "date": "2024-10-23T08:36:32.606715+00:00",
+      "identifier": "49e75b5f-8955-4165-b542-a74e61d88652",
+      "imageURL": "https://connect.sidestore.io/public/news/49e75b5f-8955-4165-b542-a74e61d88652/image.png",
+      "notify": false,
+      "tintColor": "000000",
+      "title": "SalupovTeam in SideStore!",
+      "url": "https://salupovteam.com"
+    }
+  ],
+  "sourceURL": "https://connect.sidestore.io/apps.json",
+  "subtitle": "The community driven, one-stop source for your favorite apps. ",
+  "tintColor": "#7a219e",
+  "website": "https://connect.sidestore.io"
+}
